@@ -1,0 +1,27 @@
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\Event Management System.exe.config
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\Event Management System.exe
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\Event Management System.pdb
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\System.Data.SqlClient.dll
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\System.Data.SqlClient.xml
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event Management System.csprojAssemblyReference.cache
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.Properties.Resources.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event Management System.csproj.GenerateResource.cache
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event Management System.csproj.CoreCompileInputs.cache
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event Management System.csproj.CopyComplete
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event Management System.exe
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event Management System.pdb
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.LoginForm.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.Form2.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.MainForm.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.BookTicketForm.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.ViewTicketsForm.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\BouncyCastle.Cryptography.dll
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\itextsharp.dll
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\bin\Debug\itextsharp.xml
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.RoleSelectionForm.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.AddEventForm.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.AdminDashboard.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.AllEvents.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.AllTickets.resources
+C:\Users\DIPTESH\source\repos\Event Management System\Event Management System\obj\Debug\Event_Management_System.EditEventsById.resources
